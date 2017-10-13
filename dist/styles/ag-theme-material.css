@@ -598,6 +598,8 @@
       color: rgba(0, 0, 0, 0.38); }
     .ag-theme-material .ag-filter input[type=text]:-ms-input-placeholder, .ag-theme-material .ag-filter input[type=date]:-ms-input-placeholder {
       color: rgba(0, 0, 0, 0.38); }
+    .ag-theme-material .ag-filter input[type=text]::-ms-input-placeholder, .ag-theme-material .ag-filter input[type=date]::-ms-input-placeholder {
+      color: rgba(0, 0, 0, 0.38); }
     .ag-theme-material .ag-filter input[type=text]::placeholder, .ag-theme-material .ag-filter input[type=date]::placeholder {
       color: rgba(0, 0, 0, 0.38); }
   .ag-theme-material .ag-filter label {
@@ -868,6 +870,8 @@
         color: rgba(0, 0, 0, 0.38); }
       .ag-theme-material .ag-cell-inline-editing input[type=text]:-ms-input-placeholder, .ag-theme-material .ag-cell-inline-editing input[type=tel]:-ms-input-placeholder, .ag-theme-material .ag-cell-inline-editing input[type=date]:-ms-input-placeholder, .ag-theme-material .ag-cell-inline-editing input[type=datetime-local]:-ms-input-placeholder {
         color: rgba(0, 0, 0, 0.38); }
+      .ag-theme-material .ag-cell-inline-editing input[type=text]::-ms-input-placeholder, .ag-theme-material .ag-cell-inline-editing input[type=tel]::-ms-input-placeholder, .ag-theme-material .ag-cell-inline-editing input[type=date]::-ms-input-placeholder, .ag-theme-material .ag-cell-inline-editing input[type=datetime-local]::-ms-input-placeholder {
+        color: rgba(0, 0, 0, 0.38); }
       .ag-theme-material .ag-cell-inline-editing input[type=text]::placeholder, .ag-theme-material .ag-cell-inline-editing input[type=tel]::placeholder, .ag-theme-material .ag-cell-inline-editing input[type=date]::placeholder, .ag-theme-material .ag-cell-inline-editing input[type=datetime-local]::placeholder {
         color: rgba(0, 0, 0, 0.38); }
     .ag-theme-material .ag-cell-inline-editing select {
@@ -900,6 +904,8 @@
       .ag-theme-material .ag-popup-editor .ag-large-textarea textarea::-webkit-input-placeholder {
         color: rgba(0, 0, 0, 0.38); }
       .ag-theme-material .ag-popup-editor .ag-large-textarea textarea:-ms-input-placeholder {
+        color: rgba(0, 0, 0, 0.38); }
+      .ag-theme-material .ag-popup-editor .ag-large-textarea textarea::-ms-input-placeholder {
         color: rgba(0, 0, 0, 0.38); }
       .ag-theme-material .ag-popup-editor .ag-large-textarea textarea::placeholder {
         color: rgba(0, 0, 0, 0.38); }
@@ -945,6 +951,8 @@
       .ag-theme-material .ag-floating-filter-body input::-webkit-input-placeholder {
         color: rgba(0, 0, 0, 0.38); }
       .ag-theme-material .ag-floating-filter-body input:-ms-input-placeholder {
+        color: rgba(0, 0, 0, 0.38); }
+      .ag-theme-material .ag-floating-filter-body input::-ms-input-placeholder {
         color: rgba(0, 0, 0, 0.38); }
       .ag-theme-material .ag-floating-filter-body input::placeholder {
         color: rgba(0, 0, 0, 0.38); }
