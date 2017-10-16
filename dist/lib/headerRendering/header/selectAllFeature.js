@@ -147,6 +147,12 @@ var SelectAllFeature = (function (_super) {
                     node.selectThisNode(checked);
                 }
             });
+            var event = {
+                type: events_1.Events.EVENT_SELECTION_CHANGED,
+                api: this.gridApi,
+                columnApi: this.columnApi
+            };
+            this.eventService.dispatchEvent(event);
             return;
         }
         if (!this.cbSelectAllVisible) {
