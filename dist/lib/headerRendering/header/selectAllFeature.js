@@ -68,6 +68,9 @@ var SelectAllFeature = (function (_super) {
         if (!this.cbSelectAllVisible && !this.column.colDef.checkboxSelection) {
             return;
         }
+        if(this.column.colDef.checkAll !== false) {
+            this.cbSelectAll.setVisible(true);
+        }
         this.updateStateOfCheckbox();
     };
     SelectAllFeature.prototype.onSelectionChanged = function () {

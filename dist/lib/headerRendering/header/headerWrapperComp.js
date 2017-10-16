@@ -79,7 +79,10 @@ var HeaderWrapperComp = (function (_super) {
         setLeftFeature.init();
         this.addDestroyFunc(setLeftFeature.destroy.bind(setLeftFeature));
         this.addAttributes();
-        if (this.column.colDef.checkboxSelection && !this.column.colDef.headerCheckboxSelection && this.gridOptionsWrapper.isRowSelectionMulti()) {
+        if (this.column.colDef.checkboxSelection
+            && !this.column.colDef.headerCheckboxSelection
+            && this.gridOptionsWrapper.isRowSelectionMulti()
+            && this.column.colDef.checkAll !== false) {// 冗余，但理论上在init时设置更合理
             this.cbSelectAll.setVisible(true);
         }
         cssClassApplier_1.CssClassApplier.addHeaderClassesFromColDef(this.column.getColDef(), this.getHtmlElement(), this.gridOptionsWrapper, this.column, null);
