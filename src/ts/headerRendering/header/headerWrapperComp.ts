@@ -99,6 +99,14 @@ export class HeaderWrapperComp extends Component {
         this.addDestroyFunc(setLeftFeature.destroy.bind(setLeftFeature));
 
         this.addAttributes();
+
+        const colDef = this.column.getColDef();
+        if (colDef.checkboxSelection
+            && !colDef.headerCheckboxSelection
+            && this.gridOptionsWrapper.isRowSelectionMulti()
+            && colDef.checkAll !== false) {// 冗余，但理论上在init时设置更合理
+            this.cbSelectAll.setVisible(true);
+        }
         CssClassApplier.addHeaderClassesFromColDef(this.column.getColDef(), this.getHtmlElement(), this.gridOptionsWrapper, this.column, null);
     }
 

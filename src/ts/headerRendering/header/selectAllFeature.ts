@@ -65,12 +65,19 @@ export class SelectAllFeature extends BeanStub {
     }
 
     private onModelChanged(): void {
-        if (!this.cbSelectAllVisible) { return; }
+        if (!this.cbSelectAllVisible && !this.column.getColDef().checkboxSelection) {
+            return;
+        }
+        if(this.column.getColDef().checkAll !== false) {
+            this.cbSelectAll.setVisible(true);
+        }
         this.updateStateOfCheckbox();
     }
 
     private onSelectionChanged(): void {
-        if (!this.cbSelectAllVisible) { return; }
+        if (!this.cbSelectAllVisible && !this.column.getColDef().checkboxSelection) {
+            return;
+        }
         this.updateStateOfCheckbox();
     }
 
@@ -139,6 +146,21 @@ export class SelectAllFeature extends BeanStub {
 
     private onCbSelectAll(): void {
         if (this.processingEventFromCheckbox) { return; }
+        if (this.column.getColDef().checkboxSelection && !this.column.getColDef().headerCheckboxSelection) {
+            const checked = this.cbSelectAll.isSelected();
+            this.gridApi.forEachNode(function(node){
+                if (node) {
+                    node.selectThisNode(checked);
+                }
+            });
+            const event = {
+                type: Events.EVENT_SELECTION_CHANGED,
+                api: this.gridApi,
+                columnApi: this.columnApi
+            };
+            this.eventService.dispatchEvent(event);
+            return;
+        }
         if (!this.cbSelectAllVisible) { return; }
 
         let value = this.cbSelectAll.isSelected();
