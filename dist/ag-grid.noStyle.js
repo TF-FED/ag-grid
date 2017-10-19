@@ -1,4 +1,4 @@
-// tf-ag-grid v13.3.1
+// tf-ag-grid v13.3.1-4
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory();
@@ -81,7 +81,7 @@ return /******/ (function(modules) { // webpackBootstrap
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -438,7 +438,7 @@ function getOrCreateProps(target) {
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -1850,7 +1850,7 @@ exports._ = Utils;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -2525,7 +2525,7 @@ exports.GridOptionsWrapper = GridOptionsWrapper;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -4595,7 +4595,7 @@ exports.ColumnController = ColumnController;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -4797,7 +4797,7 @@ exports.EventService = EventService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -4814,7 +4814,7 @@ exports.Events = eventKeys_1.Events;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -5822,7 +5822,7 @@ exports.GridApi = GridApi;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -5947,7 +5947,7 @@ exports.Constants = Constants;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -6234,7 +6234,7 @@ exports.Component = Component;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -6768,7 +6768,7 @@ exports.Column = Column;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -6838,7 +6838,7 @@ exports.Logger = Logger;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -8611,7 +8611,7 @@ function testKeyboardBinding(keyboardBinding, event) {
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -8681,7 +8681,7 @@ function getOrCreateProps(target, instanceName) {
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -8755,7 +8755,7 @@ exports.BeanStub = BeanStub;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -9089,7 +9089,7 @@ exports.SelectionController = SelectionController;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -9697,7 +9697,7 @@ exports.RowNode = RowNode;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -10246,7 +10246,7 @@ exports.FilterManager = FilterManager;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -10349,7 +10349,7 @@ exports.ExpressionService = ExpressionService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -11327,7 +11327,7 @@ exports.RowRenderer = RowRenderer;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -11569,7 +11569,7 @@ exports.ValueService = ValueService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -11949,7 +11949,7 @@ exports.DragAndDropService = DragAndDropService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -12159,7 +12159,7 @@ exports.SortController = SortController;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -12439,7 +12439,7 @@ exports.ColumnGroup = ColumnGroup;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -12481,7 +12481,7 @@ exports.GridCell = GridCell;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -12651,7 +12651,7 @@ exports.FocusedCellController = FocusedCellController;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -12830,7 +12830,7 @@ exports.PinnedRowModel = PinnedRowModel;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -12960,7 +12960,7 @@ exports.ComponentRecipes = ComponentRecipes;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -13206,7 +13206,7 @@ exports.ComponentResolver = ComponentResolver;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -13365,7 +13365,7 @@ exports.ColumnUtils = ColumnUtils;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -13536,7 +13536,7 @@ exports.OriginalColumnGroup = OriginalColumnGroup;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -13615,7 +13615,7 @@ exports.ValueCache = ValueCache;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -13720,7 +13720,7 @@ exports.ScrollVisibleService = ScrollVisibleService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -14045,7 +14045,7 @@ exports.PaginationProxy = PaginationProxy;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -14439,7 +14439,7 @@ exports.GridCore = GridCore;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -14715,7 +14715,7 @@ exports.PopupService = PopupService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -14887,7 +14887,7 @@ exports.Beans = Beans;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -16171,7 +16171,7 @@ exports.CellComp = CellComp;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -16269,7 +16269,7 @@ exports.SetLeftFeature = SetLeftFeature;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -16348,7 +16348,7 @@ exports.ValueFormatterService = ValueFormatterService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -16464,7 +16464,7 @@ var DragInstance = (function () {
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -16698,7 +16698,7 @@ exports.BalancedColumnTreeBuilder = BalancedColumnTreeBuilder;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -16923,7 +16923,7 @@ exports.CsvCreator = CsvCreator;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -17121,7 +17121,7 @@ exports.DisplayedGroupCreator = DisplayedGroupCreator;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -17400,7 +17400,7 @@ exports.DragService = DragService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -17499,7 +17499,7 @@ exports.MouseEventService = MouseEventService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -17739,7 +17739,7 @@ exports.AlignedGridsService = AlignedGridsService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -17843,7 +17843,7 @@ exports.AnimationFrameService = AnimationFrameService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -19025,7 +19025,7 @@ exports.RowComp = RowComp;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -19118,7 +19118,7 @@ exports.TemplateService = TemplateService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -19480,7 +19480,7 @@ exports.ScalarBaseFilter = ScalarBaseFilter;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -19671,7 +19671,7 @@ exports.DefaultDateComponent = DefaultDateComponent;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -19779,7 +19779,7 @@ exports.TouchListener = TouchListener;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -19858,7 +19858,7 @@ exports.CellEditorFactory = CellEditorFactory;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -19946,7 +19946,7 @@ exports.CellRendererFactory = CellRendererFactory;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -20067,7 +20067,7 @@ exports.CellRendererService = CellRendererService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -20171,7 +20171,7 @@ exports.AgComponentUtils = AgComponentUtils;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -20312,7 +20312,7 @@ exports.HeaderRenderer = HeaderRenderer;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -20369,7 +20369,7 @@ exports.Environment = Environment;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -20434,7 +20434,7 @@ exports.CssClassApplier = CssClassApplier;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -20615,7 +20615,7 @@ exports.AgCheckbox = AgCheckbox;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -20823,7 +20823,7 @@ exports.RowNodeBlock = RowNodeBlock;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -21018,7 +21018,7 @@ function checkForDeprecated(changes) {
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -21311,7 +21311,7 @@ var RowType;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -21447,7 +21447,7 @@ exports.AutoWidthCalculator = AutoWidthCalculator;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -21730,7 +21730,7 @@ exports.BorderLayout = BorderLayout;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -21808,7 +21808,7 @@ exports.GridRow = GridRow;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -21943,7 +21943,7 @@ exports.CheckboxSelectionComponent = CheckboxSelectionComponent;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -22057,7 +22057,7 @@ exports.PopupEditorWrapper = PopupEditorWrapper;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -22215,7 +22215,7 @@ exports.ComponentProvider = ComponentProvider;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -22334,7 +22334,7 @@ exports.TextCellEditor = TextCellEditor;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -22450,7 +22450,7 @@ exports.ColumnAnimationService = ColumnAnimationService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -22547,7 +22547,7 @@ exports.AnimateSlideCellRenderer = AnimateSlideCellRenderer;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -22657,7 +22657,7 @@ exports.AnimateShowChangeCellRenderer = AnimateShowChangeCellRenderer;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -23065,7 +23065,7 @@ exports.GroupCellRenderer = GroupCellRenderer;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -23151,7 +23151,7 @@ exports.StylingService = StylingService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -23245,7 +23245,7 @@ exports.ColumnHoverService = ColumnHoverService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -23347,7 +23347,7 @@ exports.SelectCellEditor = SelectCellEditor;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -23452,7 +23452,7 @@ exports.ComponentMetadataProvider = ComponentMetadataProvider;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -23700,7 +23700,7 @@ exports.CellNavigationService = CellNavigationService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -24126,7 +24126,7 @@ exports.RenderedHeaderCell = RenderedHeaderCell;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -24231,7 +24231,7 @@ exports.HeaderTemplateLoader = HeaderTemplateLoader;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -24277,7 +24277,7 @@ exports.GroupInstanceIdCreator = GroupInstanceIdCreator;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -24328,7 +24328,7 @@ exports.Downloader = Downloader;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -24564,7 +24564,7 @@ exports.Grid = Grid;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -24834,7 +24834,7 @@ exports.RowNodeCache = RowNodeCache;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -25115,7 +25115,7 @@ exports.InMemoryNodeManager = InMemoryNodeManager;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -25175,7 +25175,7 @@ exports.ChangedPath = ChangedPath;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -25361,7 +25361,7 @@ exports.TextFilter = TextFilter;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -25527,7 +25527,7 @@ exports.NumberFilter = NumberFilter;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -25596,7 +25596,7 @@ exports.NamedComponentResolver = NamedComponentResolver;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -25633,7 +25633,7 @@ exports.PopupTextCellEditor = PopupTextCellEditor;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -25670,7 +25670,7 @@ exports.PopupSelectCellEditor = PopupSelectCellEditor;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -25745,7 +25745,7 @@ exports.LargeTextCellEditor = LargeTextCellEditor;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -25917,7 +25917,7 @@ exports.HeaderContainer = HeaderContainer;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -26237,7 +26237,7 @@ exports.HeaderRowComp = HeaderRowComp;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -26316,6 +26316,13 @@ var HeaderWrapperComp = (function (_super) {
         setLeftFeature.init();
         this.addDestroyFunc(setLeftFeature.destroy.bind(setLeftFeature));
         this.addAttributes();
+        var colDef = this.column.getColDef();
+        if (colDef.checkboxSelection
+            && !colDef.headerCheckboxSelection
+            && this.gridOptionsWrapper.isRowSelectionMulti()
+            && colDef.checkAll !== false) {
+            this.cbSelectAll.setVisible(true);
+        }
         cssClassApplier_1.CssClassApplier.addHeaderClassesFromColDef(this.column.getColDef(), this.getHtmlElement(), this.gridOptionsWrapper, this.column, null);
     };
     HeaderWrapperComp.prototype.addColumnHoverListener = function () {
@@ -26562,7 +26569,7 @@ exports.HeaderWrapperComp = HeaderWrapperComp;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -26684,7 +26691,7 @@ exports.BodyDropTarget = BodyDropTarget;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27021,7 +27028,7 @@ exports.MoveColumnController = MoveColumnController;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27129,7 +27136,7 @@ exports.BodyDropPivotTarget = BodyDropPivotTarget;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27257,7 +27264,7 @@ exports.AutoGroupColService = AutoGroupColService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27361,7 +27368,7 @@ exports.ImmutableService = ImmutableService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27416,7 +27423,7 @@ exports.ColumnKeyCreator = ColumnKeyCreator;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27524,7 +27531,7 @@ exports.StandardMenuFactory = StandardMenuFactory;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27577,7 +27584,7 @@ exports.FilterStage = FilterStage;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27667,7 +27674,7 @@ exports.FilterService = FilterService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27720,7 +27727,7 @@ exports.SortStage = SortStage;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -27883,7 +27890,7 @@ exports.SortService = SortService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -28076,7 +28083,7 @@ exports.FlattenStage = FlattenStage;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -28432,7 +28439,7 @@ exports.InfiniteRowModel = InfiniteRowModel;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -28544,7 +28551,7 @@ exports.RowNodeBlockLoader = RowNodeBlockLoader;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -29137,7 +29144,7 @@ exports.InMemoryRowModel = InMemoryRowModel;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -29186,7 +29193,7 @@ exports.BaseFrameworkFactory = BaseFrameworkFactory;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -29261,7 +29268,7 @@ exports.XmlFactory = XmlFactory;
 "use strict";
 /* WEBPACK VAR INJECTION */(function(global) {/**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -29556,7 +29563,7 @@ module.exports = g;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -29674,7 +29681,7 @@ exports.Events = Events;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -29759,7 +29766,7 @@ exports.PropertyKeys = PropertyKeys;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -29875,7 +29882,7 @@ exports.RowContainerComponent = RowContainerComponent;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -29929,7 +29936,7 @@ var LinkedListItem = (function () {
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -30180,7 +30187,7 @@ exports.HeaderComp = HeaderComp;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -30311,7 +30318,7 @@ exports.HeaderGroupComp = HeaderGroupComp;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -30613,7 +30620,7 @@ exports.ReadModelAsStringFloatingFilterComp = ReadModelAsStringFloatingFilterCom
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -30754,7 +30761,7 @@ exports.EmptyFloatingFilterWrapperComp = EmptyFloatingFilterWrapperComp;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -30974,7 +30981,7 @@ exports.PaginationComp = PaginationComp;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -31039,13 +31046,16 @@ var SelectAllFeature = (function (_super) {
         }
     };
     SelectAllFeature.prototype.onModelChanged = function () {
-        if (!this.cbSelectAllVisible) {
+        if (!this.cbSelectAllVisible && !this.column.getColDef().checkboxSelection) {
             return;
+        }
+        if (this.column.getColDef().checkAll !== false) {
+            this.cbSelectAll.setVisible(true);
         }
         this.updateStateOfCheckbox();
     };
     SelectAllFeature.prototype.onSelectionChanged = function () {
-        if (!this.cbSelectAllVisible) {
+        if (!this.cbSelectAllVisible && !this.column.getColDef().checkboxSelection) {
             return;
         }
         this.updateStateOfCheckbox();
@@ -31109,6 +31119,21 @@ var SelectAllFeature = (function (_super) {
     };
     SelectAllFeature.prototype.onCbSelectAll = function () {
         if (this.processingEventFromCheckbox) {
+            return;
+        }
+        if (this.column.getColDef().checkboxSelection && !this.column.getColDef().headerCheckboxSelection) {
+            var checked_1 = this.cbSelectAll.isSelected();
+            this.gridApi.forEachNode(function (node) {
+                if (node) {
+                    node.selectThisNode(checked_1);
+                }
+            });
+            var event_1 = {
+                type: events_1.Events.EVENT_SELECTION_CHANGED,
+                api: this.gridApi,
+                columnApi: this.columnApi
+            };
+            this.eventService.dispatchEvent(event_1);
             return;
         }
         if (!this.cbSelectAllVisible) {
@@ -31195,7 +31220,7 @@ exports.SelectAllFeature = SelectAllFeature;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -31543,7 +31568,7 @@ exports.HeaderGroupWrapperComp = HeaderGroupWrapperComp;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -31564,7 +31589,7 @@ exports.DefaultColumnTypes = {
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -31612,7 +31637,7 @@ function AngularDirectiveController($element, $scope, $compile, $attrs) {
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -31795,7 +31820,7 @@ exports.InfiniteCache = InfiniteCache;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -31930,7 +31955,7 @@ exports.InfiniteBlock = InfiniteBlock;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -31992,7 +32017,7 @@ exports.RowNodeFactory = RowNodeFactory;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -32093,7 +32118,7 @@ exports.ChangeDetectionService = ChangeDetectionService;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -32216,7 +32241,7 @@ function toCamelCase(myString) {
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -32322,7 +32347,7 @@ exports.TabbedLayout = TabbedLayout;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -32369,7 +32394,7 @@ exports.VerticalStack = VerticalStack;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -32412,7 +32437,7 @@ exports.Promise = Promise;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -32449,7 +32474,7 @@ exports.defaultGroupComparator = defaultGroupComparator;
 "use strict";
 /**
  * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */

@@ -1,6 +1,6 @@
 /**
- * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -79,10 +79,11 @@ var HeaderWrapperComp = (function (_super) {
         setLeftFeature.init();
         this.addDestroyFunc(setLeftFeature.destroy.bind(setLeftFeature));
         this.addAttributes();
-        if (this.column.colDef.checkboxSelection
-            && !this.column.colDef.headerCheckboxSelection
+        var colDef = this.column.getColDef();
+        if (colDef.checkboxSelection
+            && !colDef.headerCheckboxSelection
             && this.gridOptionsWrapper.isRowSelectionMulti()
-            && this.column.colDef.checkAll !== false) {// 冗余，但理论上在init时设置更合理
+            && colDef.checkAll !== false) {
             this.cbSelectAll.setVisible(true);
         }
         cssClassApplier_1.CssClassApplier.addHeaderClassesFromColDef(this.column.getColDef(), this.getHtmlElement(), this.gridOptionsWrapper, this.column, null);

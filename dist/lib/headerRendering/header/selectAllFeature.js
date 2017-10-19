@@ -1,6 +1,6 @@
 /**
- * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
- * @version v13.3.1
+ * tf-ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+ * @version v13.3.1-4
  * @link http://www.ag-grid.com/
  * @license MIT
  */
@@ -65,16 +65,16 @@ var SelectAllFeature = (function (_super) {
         }
     };
     SelectAllFeature.prototype.onModelChanged = function () {
-        if (!this.cbSelectAllVisible && !this.column.colDef.checkboxSelection) {
+        if (!this.cbSelectAllVisible && !this.column.getColDef().checkboxSelection) {
             return;
         }
-        if(this.column.colDef.checkAll !== false) {
+        if (this.column.getColDef().checkAll !== false) {
             this.cbSelectAll.setVisible(true);
         }
         this.updateStateOfCheckbox();
     };
     SelectAllFeature.prototype.onSelectionChanged = function () {
-        if (!this.cbSelectAllVisible && !this.column.colDef.checkboxSelection) {
+        if (!this.cbSelectAllVisible && !this.column.getColDef().checkboxSelection) {
             return;
         }
         this.updateStateOfCheckbox();
@@ -140,19 +140,19 @@ var SelectAllFeature = (function (_super) {
         if (this.processingEventFromCheckbox) {
             return;
         }
-        if (this.column.colDef.checkboxSelection && !this.column.colDef.headerCheckboxSelection) {
-            var checked = this.cbSelectAll.isSelected();
-            this.gridApi.forEachNode(function(node){
+        if (this.column.getColDef().checkboxSelection && !this.column.getColDef().headerCheckboxSelection) {
+            var checked_1 = this.cbSelectAll.isSelected();
+            this.gridApi.forEachNode(function (node) {
                 if (node) {
-                    node.selectThisNode(checked);
+                    node.selectThisNode(checked_1);
                 }
             });
-            var event = {
+            var event_1 = {
                 type: events_1.Events.EVENT_SELECTION_CHANGED,
                 api: this.gridApi,
                 columnApi: this.columnApi
             };
-            this.eventService.dispatchEvent(event);
+            this.eventService.dispatchEvent(event_1);
             return;
         }
         if (!this.cbSelectAllVisible) {
